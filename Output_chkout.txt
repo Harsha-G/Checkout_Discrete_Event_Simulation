@@ -1,0 +1,27 @@
+0    0         1         0         0   (D,8.000000) (A,13.000000)       A occurs, (a*=13) Schedule Next Arrival 
+8    0         0         8         0                (A,13.000000)       D occurs, (s*=8) Schedule Next Departure 
+13    0         1         8         0  (D,21.000000) (A,22.000000)       A occurs, (a*=9) Schedule Next Arrival 
+21    0         0        21         0                (A,22.000000)       D occurs, (s*=8) Schedule Next Departure 
+22    0         1        21         0  (D,32.000000) (A,32.000000)       A occurs, (a*=10) Schedule Next Arrival 
+32    0         0        32         0                (A,32.000000)       D occurs, (s*=10) Schedule Next Departure 
+32    0         1        32         0  (D,41.000000) (A,42.000000)       A occurs, (a*=10) Schedule Next Arrival 
+41    0         0        41         0                (A,42.000000)       D occurs, (s*=9) Schedule Next Departure 
+42    0         1        41         0  (D,52.000000) (A,52.000000)       A occurs, (a*=10) Schedule Next Arrival 
+52    0         0        52         0                (A,52.000000)       D occurs, (s*=10) Schedule Next Departure 
+52    0         1        52         0  (D,61.000000) (A,65.000000)       A occurs, (a*=13) Schedule Next Arrival 
+61    0         0        61         0                (A,65.000000)       D occurs, (s*=9) Schedule Next Departure 
+65    0         1        61         0  (D,74.000000) (A,76.000000)       A occurs, (a*=11) Schedule Next Arrival 
+74    0         0        74         0                (A,76.000000)       D occurs, (s*=9) Schedule Next Departure 
+76    0         1        74         0  (D,85.000000) (A,87.000000)       A occurs, (a*=11) Schedule Next Arrival 
+85    0         0        85         0                (A,87.000000)       D occurs, (s*=9) Schedule Next Departure 
+87    0         1        85         0  (D,98.000000) (A,99.000000)       A occurs, (a*=12) Schedule Next Arrival 
+98    0         0        98         0                (A,99.000000)       D occurs, (s*=11) Schedule Next Departure 
+99    0         1        98         0(D,107.000000) (A,109.000000)       A occurs, (a*=10) Schedule Next Arrival 
+
+
+Server Utilization: 0.934579
+Maximum Line Length: 0
+Average Response Time: 9
+Proportion that spent 4 or more time units in system: 1
+Simulation Run Length: 107
+Number of Departures: 9
